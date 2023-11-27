@@ -1,0 +1,11 @@
+{
+    "dev": {
+      "driver": "mysql",
+      "user": "root",
+      "password": "ycyc",
+      "host": "localhost",
+      "database": "restaurant_db",
+      "multipleStatements": true
+    }
+  }
+  
